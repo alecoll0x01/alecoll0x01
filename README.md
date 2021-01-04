@@ -1,7 +1,5 @@
 ### Hi, I'm Alessandro Colluci 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on: [NAVE | Bild & Vitta](https://github.com/bildvitta)
 - 🌱 I’m currently learning: **Django, Python, Flask and Javascript**
 - 📫 How to reach me: ale.fab.colluci@gmail.com
