@@ -13,7 +13,7 @@
   <a href="https://twitter.com/KpiroTT0" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hynzhw" height="20" width="20" />
   </a>
-  <a href="hlinkedin.com/in/alessandro-fabiano-colluci-04853a193" target="blank">
+  <a href="www.linkedin.com/in/ale-colluci-junio" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ghaynesh" height="20" width="20" />
   </a>
 </p>
