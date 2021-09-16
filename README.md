@@ -1,7 +1,7 @@
 ### Hi, I'm Alessandro Colluci 👋
 
-- 🔭 I’m currently working on: [NAVE | Bild & Vitta](https://github.com/bildvitta)
-- 🌱 I’m currently learning: **Django, Python, Flask and Javascript**
+- 🔭 I’m currently working on: TOTVS - Ribeirão Preto
+- 🌱 I’m currently learning: **C#, Angular, Microservices and PL/SQL**
 - 📫 How to reach me: ale.fab.colluci@gmail.com
 - ⚡ Fun fact: **coffe lover** :coffee:
 
