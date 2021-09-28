@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on: TOTVS - Ribeirão Preto
 - 🌱 I’m currently learning: **C#, Angular, Microservices and PL/SQL**
 - 📫 How to reach me: ale.fab.colluci@gmail.com
-- ⚡ Fun fact: **coffe lover** :coffee:
+- ☕ let's have coffee? 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alecoll0x01&show_icons=true" alt="zerossb" />
