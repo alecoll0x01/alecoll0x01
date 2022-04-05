@@ -1,6 +1,6 @@
 ### Hi, I'm Alessandro Colluci 👋
 
-- 🔭 I’m currently working on: TOTVS - Ribeirão Preto
+- 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning: **C#, Angular, Microservices and PL/SQL**
 - 📫 How to reach me: ale.fab.colluci@gmail.com
 - ☕ let's have coffee? 
