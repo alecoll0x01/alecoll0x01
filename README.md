@@ -1,7 +1,7 @@
 ### Hi, I'm Alessandro Colluci 👋
 
-- 🔭 I’m currently looking for a job
-- 🌱 I’m currently learning: **C#, Angular, Microservices and PL/SQL**
+- 🔭 I’m currently working
+- 🌱 I’m currently learning: **C#, Angular, Microservices, C and Python**
 - 📫 How to reach me: ale.fab.colluci@gmail.com
 - ☕ let's have coffee? 
 
